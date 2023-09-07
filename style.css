@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navbar{
+    padding-inline:20px;
+    border-radius: 20px;
+}
+.carousel{
+    margin-top: 100px;
+}
+.text-center{
+    font-size: 18px;
+}
+.card-box{
+    min-width: 100%;
+}
+.three-card{
+    height: 100%;
+}
+.hero-div{
+    position: relative;
+}
+.card-hero{
+    position: absolute;
+    opacity: 0.85;
+    left: 5%;
+    bottom: 5%;
+}
+.row .no-border{
+    border: none;
+}
+.row .card .padding{
+    padding: 20px 0 0;
+}
+.footer{
+    padding: 20px;
+}
